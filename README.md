@@ -25,7 +25,8 @@
 
 
 ## Usage
-### 使用方法
+
+
 ```
 // 调用方式一
 [[HQToast shareInstance] showText:@"保存成功!"];
