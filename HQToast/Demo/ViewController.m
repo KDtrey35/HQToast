@@ -39,8 +39,8 @@
     // 调用方式一
     [[HQToast shareInstance] showText:@"保存成功!"];
     
-    // 调用方式一
-//    [[HQToast shareInstance] showTextDuration:1.0 CornerRadiusNum:8.0 TextBackColor:[UIColor greenColor] TextFont:[UIFont systemFontOfSize:14] TextColor:[UIColor redColor] TextFrame:CGPointMake(0, 0) Text:@"保存成功!"];
+//    // 调用方式二
+//    [[HQToast shareInstance] showTextDuration:1.0 CornerRadiusNum:8.0 TextBackColor:[UIColor greenColor] TextFont:[UIFont systemFontOfSize:14] TextColor:[UIColor redColor] TextFrame:CGPointMake(0, 0) Text:@"这是一段文字提示!"];
 }
 
 
