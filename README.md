@@ -18,7 +18,9 @@
 
 
 ## Example
+
  点击`HQToast.xcodeproj`把项目跑起来
+ 
 <img src="https://github.com/KDtrey35/HQToast/blob/master/Images/1.gif" width="30%" height="30%">
 
 
